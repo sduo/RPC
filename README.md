@@ -146,11 +146,11 @@
 
 日志库，可在具体的 Project 下找到。
 
-> ```AccessKey``` : string
+> ```AK``` : string（```AccessKey```）
 
 访问密钥组之一，可以参照 [访问控制](https://help.aliyun.com/document_detail/175967.html) 文档获取。
 
-> ```SecretKey``` : string
+> ```SK``` : string（```SecretKey```）
 
 同上。
 
